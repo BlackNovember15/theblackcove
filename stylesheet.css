@@ -1,0 +1,55 @@
+.title {
+  color: grey;
+  text-align: center;
+  font-style: bold;
+  font-family: fantasy;
+}
+
+.Intro {
+  text-align: center;
+  color:grey;
+}
+
+.headers{
+  padding: 10px;
+  background-color: black
+}
+
+.contents {
+  padding :20px;
+  border: 5px outset;
+  height:500px;
+  margin-top:100px;
+}
+
+.contents-item{
+  float:left;
+  margin-right:40px;
+}
+
+.contents-item p {
+  font-size:25px;
+  margin-top:30px;
+
+}
+
+.special {
+  text-align: center;
+  border-bottom: solid 5px;
+}
+
+.footer-list {
+  float: right;
+
+}
+
+.footer {
+  height:200px;
+  width:1330px;
+  background-color: white;
+}
+
+.footer-logo {
+  height: 50px;
+  width: 100px;
+}
